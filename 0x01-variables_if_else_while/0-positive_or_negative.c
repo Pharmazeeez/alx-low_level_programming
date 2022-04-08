@@ -3,7 +3,7 @@
 #include < stdio.h >
 
 /**
- * main - prints if numberis positive, zero or negative
+ * main - prints the type of interger
  *
  * Return: Always (Success)
  */
